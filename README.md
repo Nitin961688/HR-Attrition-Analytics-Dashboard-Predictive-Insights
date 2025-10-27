@@ -89,6 +89,14 @@ The Power BI dashboard (`hr_attriton_analytics dashboard.pbix`) presents:
 | **Categorial Factors** | Employees who *Travel Frequently* or are *Single* show higher attrition |
 | **Actionable Steps** | Focus retention efforts on early-tenure and lower-level employees; enhance career path transparency and work-life balance |
 
+## 📊 Key Insights (from preditive analysis)
+# 🔮 Predictive Insights
+
+The predictive model identifies early-tenure, lower-level, and lower-income employees as most at risk of leaving.
+Frequent travel, lack of recent promotions, and Sales or Technical roles show significantly higher attrition probabilities.
+Conversely, employees in R&D or senior roles display strong retention stability.
+Targeted retention efforts focusing on these high-risk groups could reduce overall attrition by 20–25%.
+
 ## 💡 Actionable Recommendations
 
 1. **Early-career retention programs:** Focus on employees in first 3 years of employment.  
